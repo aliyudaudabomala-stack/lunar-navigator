@@ -1,0 +1,18 @@
+{
+  "product_id": "LDEM_75S_240M",
+  "dataset_id": "LRO-L-LOLA-4-GDR-V1.0",
+  "title": "LRO LOLA gridded topography, 240 m/pixel, south polar stereographic",
+  "source": "NASA Planetary Data System (PDS) Geosciences Node",
+  "source_url": "https://pds-geosciences.wustl.edu/lro/lro-l-lola-3-rdr-v1/lrolol_1xxx/data/lola_gdr/polar/img/ldem_75s_240m.img",
+  "label_url": "https://pds-geosciences.wustl.edu/lro/lro-l-lola-3-rdr-v1/lrolol_1xxx/data/lola_gdr/polar/lbl/ldem_75s_240m.lbl",
+  "retrieved_at": "2026-11-14T18:15:45Z",
+  "bytes": 29062688,
+  "lines": 3812,
+  "samples": 3812,
+  "resolution_m": 240.0,
+  "projection": "south polar stereographic, spherical, true at the pole",
+  "reference_radius_m": 1737400.0,
+  "vertical_datum": "radius relative to a 1737.4 km reference sphere",
+  "coverage": "75S to 90S, full longitude",
+  "notes": "Downloaded once for this deployment. The file is a static NASA archive product; it is not a live stream. SHA-256 is computed over the first 8 MiB by the backend to keep startup cheap."
+}
